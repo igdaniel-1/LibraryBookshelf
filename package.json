@@ -1,0 +1,25 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "This is a book shelf package built in JS with a Node Server Side.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igdaniel-1/bookshelf_NodeJS.git"
+  },
+  "keywords": [
+    "Notes",
+    "Organization",
+    "NodeJS"
+  ],
+  "author": "India Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igdaniel-1/bookshelf_NodeJS/issues"
+  },
+  "homepage": "https://github.com/igdaniel-1/bookshelf_NodeJS#readme"
+}
